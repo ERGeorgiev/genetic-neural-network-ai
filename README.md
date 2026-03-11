@@ -92,3 +92,5 @@ GenetikaParameters.MutationRate = 0.1f;
 The Paint demo evolves neural networks that control a virtual brush to generate artwork. Each network receives 11 sensory inputs (position, progress, system metrics, previous color) and produces 9 outputs (movement, color, brush size, opacity, type, pressure).
 
 Generated paintings are saved to the `paintings/` directory.
+
+![Painting](media/painting2.png)
